@@ -1,0 +1,32 @@
+{
+    "id": 52,
+    "stCalcDate": "2017-03-28 12:00:00",
+    "stIndexLevel": {
+        "id": 2,
+        "indexLevelName": "Umiarkowany"
+    },
+    "stSourceDataDate": "2017-03-28 12:00:00",
+    "so2CalcDate": "2017-03-28 12:00:00",
+    "so2IndexLevel": 0,
+        "id": 0,
+        "IndexLevelName": "Bardzo dobry"
+    "so2SourceDataDate": "2017-03-28 12:00:00",
+    "no2CalcDate": "2017-03-28 12:00:00",
+    "no2IndexLevel": 0,
+        "id": 0,
+        "IndexLevelName": "Bardzo dobry"
+    "no2SourceDataDate": "2017-03-28 12:00:00",
+    "pm10CalcDate": "2017-03-28 12:00:00",
+    "pm10IndexLevel": 2,
+        "id": 2,
+        "IndexLevelName": "Umiarkowany"
+    "pm10SourceDataDate": "2017-03-28 12:00:00",
+    "pm25CalcDate": "2017-03-28 12:00:00",
+    "pm25IndexLevel": 2,
+        "id": 2,
+        "IndexLevelName": "Umiarkowany"
+    "pm25SourceDataDate": null,
+    "o3CalcDate": "2017-03-28 12:00:00",
+    "o3IndexLevel": null,
+    "o3SourceDataDate": "2017-03-28 12:00:00",
+}
